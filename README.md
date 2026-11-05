@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I am Amit Kumar, a B.Tech student passionate about web development and software engineering. I enjoy building responsive websites and continuously improving my technical skills.
 
 
